@@ -4,7 +4,7 @@ public class happily {
 	private static final String Strin = null;
 	String strs = null;
 	public static void main(String[] args) {
-		System.out.println("lefttest===");
+		System.out.println("Lefttest===");
 		System.out.println("liwenliang");
 		System.err.println();
 		String str = null;
